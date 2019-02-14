@@ -1,0 +1,12 @@
+PODS:
+  - SciChart (2.2.2.2323)
+
+DEPENDENCIES:
+  - SciChart
+
+SPEC CHECKSUMS:
+  SciChart: ec73ed4b7b92f0d904c1a44c3c4eb4e16f3bdcc3
+
+PODFILE CHECKSUM: f6310decd92572b5c37c6ccdd2e6f2a79fab1bf9
+
+COCOAPODS: 1.4.0
